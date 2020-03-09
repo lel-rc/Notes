@@ -1,6 +1,6 @@
 title: NoteTheme
 description: You cannot remember everything.
-baseurl: ""
+baseurl: "https://arcinas.info/Notes"
 url: "https://arcinas.info/Notes"
 repository: dinhanhthi/notetheme
 paginate: 28
