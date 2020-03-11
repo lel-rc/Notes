@@ -46,11 +46,6 @@ js: ["post.js"]
       <a class="tag-chip" href="{{site.baseurl}}/tags#{{tag | slugify}}{% if test == testup %}_cap{% endif %}"><div class="chip z-depth-1">{{tag}}</div></a>
       {% endfor %}
     </div>
-    {% include related-posts.html %}
     {% include search_form.html %}
-
-    {% if site.disqus_shortname and page.comment %}
-      {% include disqus.html %}
-    {% endif %}
   </div>
 </main>
