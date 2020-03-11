@@ -1,3 +1,11 @@
+---
+title: Deduction
+categories: notetheme
+tags: [notetheme, jekyll, theme]
+maths: 1
+comment: 1
+---
+
 ### The limits of logical form
 
 Good news: valid forms can help us identify valid arguments!
