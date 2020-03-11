@@ -1,8 +1,8 @@
-title: NoteTheme
-description: You cannot remember everything.
+title: notes.arcinas.info
+description: Notes are fun.
 baseurl: "https://arcinas.info/Notes"
 url: "https://arcinas.info/Notes"
-repository: dinhanhthi/notetheme
+repository: lel-rc/notes
 paginate: 28
 
 banner: "/assets/res/banner.png" # site banner (load when someone share your page url)
@@ -10,11 +10,11 @@ favicon: "/assets/res/favicon.png" # site's favicon (icon left side of your page
 
 # MatJek specific configurations
 user:
-  name: "Math2IT"
-  email: "dinhanhthimail@gmail.com"
-  website: "math2it.com"
+  name: "Lyle Arcinas"
+  email: "lyle.arcinas@gmail.com"
+  website: "https://arcinas.info"
   avatar: "/assets/res/user.png"
-  github: "dinhanhthi"
+  github: "lel-rc"
 google_tracking_id: ""
 google_site_verification: ""
 disqus_shortname: this-site
